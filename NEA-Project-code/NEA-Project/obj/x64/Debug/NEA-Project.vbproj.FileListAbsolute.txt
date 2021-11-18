@@ -1,0 +1,16 @@
+C:\Users\Hamza\Desktop\Desktop\NEA-Project\NEA-Project\bin\x64\Debug\NEA-Project.exe.config
+C:\Users\Hamza\Desktop\Desktop\NEA-Project\NEA-Project\bin\x64\Debug\NEA-Project.exe
+C:\Users\Hamza\Desktop\Desktop\NEA-Project\NEA-Project\bin\x64\Debug\NEA-Project.pdb
+C:\Users\Hamza\Desktop\Desktop\NEA-Project\NEA-Project\bin\x64\Debug\NEA-Project.xml
+C:\Users\Hamza\Desktop\Desktop\NEA-Project\NEA-Project\obj\x64\Debug\NEA_Project.Form1.resources
+C:\Users\Hamza\Desktop\Desktop\NEA-Project\NEA-Project\obj\x64\Debug\NEA_Project.Form2.resources
+C:\Users\Hamza\Desktop\Desktop\NEA-Project\NEA-Project\obj\x64\Debug\NEA_Project.Form3.resources
+C:\Users\Hamza\Desktop\Desktop\NEA-Project\NEA-Project\obj\x64\Debug\NEA_Project.Form4.resources
+C:\Users\Hamza\Desktop\Desktop\NEA-Project\NEA-Project\obj\x64\Debug\NEA_Project.Form5.resources
+C:\Users\Hamza\Desktop\Desktop\NEA-Project\NEA-Project\obj\x64\Debug\NEA_Project.Form6.resources
+C:\Users\Hamza\Desktop\Desktop\NEA-Project\NEA-Project\obj\x64\Debug\NEA_Project.Resources.resources
+C:\Users\Hamza\Desktop\Desktop\NEA-Project\NEA-Project\obj\x64\Debug\NEA-Project.vbproj.GenerateResource.cache
+C:\Users\Hamza\Desktop\Desktop\NEA-Project\NEA-Project\obj\x64\Debug\NEA-Project.vbproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\Desktop\NEA-Project\NEA-Project\obj\x64\Debug\NEA-Project.exe
+C:\Users\Hamza\Desktop\Desktop\NEA-Project\NEA-Project\obj\x64\Debug\NEA-Project.xml
+C:\Users\Hamza\Desktop\Desktop\NEA-Project\NEA-Project\obj\x64\Debug\NEA-Project.pdb
